@@ -1,0 +1,30 @@
+*{margin: 0; padding:0;}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+main input{
+    width: 400px;
+    height: 40px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+ .sugestao{
+    cursor: pointer;
+    padding: 10px;
+    background-color: rgb(212, 187, 187);
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+
+
+
+
+
